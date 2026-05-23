@@ -1,0 +1,16 @@
+{
+  "model": "imazapyr_complex.cif",
+  "residues": [
+    142,
+    143,
+    144,
+    145,
+    146
+  ],
+  "center": [
+    -5.87,
+    -12.84,
+    5.33
+  ],
+  "plddt": 82.07
+}

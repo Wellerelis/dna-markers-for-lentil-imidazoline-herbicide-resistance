@@ -1,0 +1,55 @@
+{
+  "imazaquin": {
+    "n_atoms": 23,
+    "center": [
+      1.395,
+      -4.955,
+      10.489
+    ]
+  },
+  "imazetapir": {
+    "n_atoms": 21,
+    "center": [
+      -7.377,
+      17.632,
+      20.173
+    ]
+  },
+  "imazametabenz": {
+    "n_atoms": 21,
+    "center": [
+      0.301,
+      -13.68,
+      6.34
+    ]
+  },
+  "imazamox": {
+    "n_atoms": 22,
+    "center": [
+      -7.451,
+      -4.651,
+      -11.867
+    ]
+  },
+  "imazapyc": {
+    "n_atoms": 20,
+    "center": [
+      11.394,
+      9.584,
+      14.926
+    ]
+  },
+  "imazapyr": {
+    "n_atoms": 19,
+    "center": [
+      -9.686,
+      14.747,
+      -19.466
+    ]
+  },
+  "consensus_center": [
+    -1.904,
+    3.113,
+    3.432
+  ]
+}

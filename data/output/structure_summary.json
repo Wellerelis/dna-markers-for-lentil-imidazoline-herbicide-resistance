@@ -1,0 +1,455 @@
+{
+  "imazametabenz_complex.cif": {
+    "mean_plddt": 73.96,
+    "n_atoms": 1498,
+    "n_residues": 188,
+    "high_plddt_regions": [
+      {
+        "residues": [
+          88,
+          89,
+          90,
+          91,
+          92,
+          93
+        ],
+        "mean_plddt": 81.4
+      },
+      {
+        "residues": [
+          142,
+          143,
+          144,
+          145,
+          146
+        ],
+        "mean_plddt": 81.78
+      },
+      {
+        "residues": [
+          148,
+          149,
+          150,
+          151,
+          152
+        ],
+        "mean_plddt": 80.96
+      },
+      {
+        "residues": [
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169
+        ],
+        "mean_plddt": 81.16
+      }
+    ],
+    "best_region": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "best_region_plddt": 81.78,
+    "best_region_center": [
+      -9.83,
+      -11.75,
+      -7.14
+    ]
+  },
+  "imazapyc_complex.cif": {
+    "mean_plddt": 74.07,
+    "n_atoms": 1498,
+    "n_residues": 188,
+    "high_plddt_regions": [
+      {
+        "residues": [
+          88,
+          89,
+          90,
+          91,
+          92,
+          93
+        ],
+        "mean_plddt": 81.49
+      },
+      {
+        "residues": [
+          142,
+          143,
+          144,
+          145,
+          146
+        ],
+        "mean_plddt": 81.83
+      },
+      {
+        "residues": [
+          148,
+          149,
+          150,
+          151,
+          152
+        ],
+        "mean_plddt": 81.14
+      },
+      {
+        "residues": [
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169
+        ],
+        "mean_plddt": 81.2
+      },
+      {
+        "residues": [
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185
+        ],
+        "mean_plddt": 80.38
+      }
+    ],
+    "best_region": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "best_region_plddt": 81.83,
+    "best_region_center": [
+      10.38,
+      -0.0,
+      20.14
+    ]
+  },
+  "imazaquin_complex.cif": {
+    "mean_plddt": 73.86,
+    "n_atoms": 1498,
+    "n_residues": 188,
+    "high_plddt_regions": [
+      {
+        "residues": [
+          88,
+          89,
+          90,
+          91,
+          92,
+          93
+        ],
+        "mean_plddt": 81.05
+      },
+      {
+        "residues": [
+          142,
+          143,
+          144,
+          145,
+          146
+        ],
+        "mean_plddt": 81.33
+      },
+      {
+        "residues": [
+          148,
+          149,
+          150,
+          151,
+          152
+        ],
+        "mean_plddt": 80.51
+      },
+      {
+        "residues": [
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169
+        ],
+        "mean_plddt": 80.87
+      }
+    ],
+    "best_region": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "best_region_plddt": 81.33,
+    "best_region_center": [
+      12.34,
+      -1.77,
+      9.39
+    ]
+  },
+  "imazapyr_complex.cif": {
+    "mean_plddt": 74.04,
+    "n_atoms": 1498,
+    "n_residues": 188,
+    "high_plddt_regions": [
+      {
+        "residues": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93
+        ],
+        "mean_plddt": 81.32
+      },
+      {
+        "residues": [
+          142,
+          143,
+          144,
+          145,
+          146
+        ],
+        "mean_plddt": 82.07
+      },
+      {
+        "residues": [
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154
+        ],
+        "mean_plddt": 80.67
+      },
+      {
+        "residues": [
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169
+        ],
+        "mean_plddt": 81.56
+      },
+      {
+        "residues": [
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185
+        ],
+        "mean_plddt": 80.46
+      }
+    ],
+    "best_region": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "best_region_plddt": 82.07,
+    "best_region_center": [
+      -5.87,
+      -12.84,
+      5.33
+    ]
+  },
+  "imazetapir_complex.cif": {
+    "mean_plddt": 74.71,
+    "n_atoms": 1498,
+    "n_residues": 188,
+    "high_plddt_regions": [
+      {
+        "residues": [
+          88,
+          89,
+          90,
+          91,
+          92,
+          93
+        ],
+        "mean_plddt": 81.77
+      },
+      {
+        "residues": [
+          142,
+          143,
+          144,
+          145,
+          146
+        ],
+        "mean_plddt": 81.91
+      },
+      {
+        "residues": [
+          148,
+          149,
+          150,
+          151,
+          152
+        ],
+        "mean_plddt": 81.34
+      },
+      {
+        "residues": [
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169
+        ],
+        "mean_plddt": 81.21
+      },
+      {
+        "residues": [
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185
+        ],
+        "mean_plddt": 80.61
+      }
+    ],
+    "best_region": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "best_region_plddt": 81.91,
+    "best_region_center": [
+      -8.01,
+      -11.49,
+      -2.75
+    ]
+  },
+  "imazamox_complex.cif": {
+    "mean_plddt": 73.88,
+    "n_atoms": 1498,
+    "n_residues": 188,
+    "high_plddt_regions": [
+      {
+        "residues": [
+          88,
+          89,
+          90,
+          91,
+          92,
+          93
+        ],
+        "mean_plddt": 81.35
+      },
+      {
+        "residues": [
+          142,
+          143,
+          144,
+          145,
+          146
+        ],
+        "mean_plddt": 81.61
+      },
+      {
+        "residues": [
+          148,
+          149,
+          150,
+          151,
+          152
+        ],
+        "mean_plddt": 80.94
+      },
+      {
+        "residues": [
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169
+        ],
+        "mean_plddt": 80.93
+      }
+    ],
+    "best_region": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "best_region_plddt": 81.61,
+    "best_region_center": [
+      1.25,
+      -3.54,
+      -15.18
+    ]
+  }
+}

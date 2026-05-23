@@ -1,0 +1,11 @@
+id,type,split,position,wt_aa,mut_aa,description,dg_measured,dg_predicted,dg_std,ddg,distance_to_ligand
+SNP_171_FR,single,train,171,F,R,F171R,-4.92,-4.921,0.004,1.58,7.87
+SNP_164_IR,single,train,164,I,R,I164R,-4.944,-4.946,0.004,1.556,9.32
+SNP_171_FD,single,train,171,F,D,F171D,-4.977,-4.977,0.004,1.523,7.87
+SNP_168_GR,single,test,168,G,R,G168R,-4.982,-5.02,0.013,1.518,7.0
+SNP_171_FE,single,train,171,F,E,F171E,-5.031,-5.031,0.004,1.469,7.87
+SNP_164_ID,single,train,164,I,D,I164D,-5.046,-5.046,0.004,1.454,9.32
+SNP_171_FK,single,train,171,F,K,F171K,-5.049,-5.048,0.004,1.451,7.87
+SNP_164_IK,single,train,164,I,K,I164K,-5.051,-5.049,0.004,1.449,9.32
+SNP_165_GR,single,train,165,G,R,G165R,-5.088,-5.089,0.004,1.412,7.57
+SNP_164_IE,single,train,164,I,E,I164E,-5.091,-5.093,0.004,1.409,9.32
