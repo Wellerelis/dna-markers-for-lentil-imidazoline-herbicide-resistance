@@ -10,7 +10,6 @@
 
 | файл | содержание |
 |---|---|
-| `data/input/rank_1..5.cif` | 5 моделей AlphaFold белка AHAS (188 аминокислот) |
 | `data/input/imazaquin_complex.cif` | AlphaFold комплекс белок + имазаквин (23 атома) |
 | `data/input/imazetapir_complex.cif` | комплекс + имазетапир (21 атом) |
 | `data/input/imazametabenz_complex.cif` | комплекс + имазаметабенз (21 атом) |
